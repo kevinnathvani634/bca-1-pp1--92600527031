@@ -44,7 +44,7 @@ void main()
 	}
 	else
 	{
-		printf("|n *****");
+		printf("\n *****");
 	}
 	getch();
 }
